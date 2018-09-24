@@ -1,0 +1,6 @@
+body { background: royalblue;
+       color: maroon;
+       font-size: 24pt; }
+body { font-family: 'Centaur', sans-serif; }
+p.intro{ text-indent: 60px}
+h1 {text-align: center}
